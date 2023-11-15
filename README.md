@@ -15,5 +15,7 @@ t## Olá me chamo Adson, mas todos me chamam de Baiano. 🙂
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="baianogif" height="250em" width="250" src="https://i.pinimg.com/originals/ac/10/c5/ac10c59f7fb2535cd3e4a19c97fd5c76.gif">
+  <img align="right" alt="baianogif" height="250em" width="250" src="![image](https://github.com/BaianoAdson/BaianoAdson/assets/143633863/7b6b00b7-5f4f-4e45-88ec-204ef055a95b)
+
+">
           
