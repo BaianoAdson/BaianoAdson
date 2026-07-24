@@ -1,10 +1,7 @@
 🙂
 
-- 🔭 ...
-- 🌱 Estudando C e HTML.
-- 🔗 Contato: adsonsouzameireles731@gmail.com.
-- 😄 Pronomes: Ele/Dele.
-- ⚡ Fato engraçado: Sou gêmeo(não é signo).
+<a href="https://baianoadson.github.io/Projeto-Salas-FUCAPI-/">
+ <p>Acessa ai jorj</p>
 
  <div align="left">
   <a href="https://github.com/BaianoAdson">
