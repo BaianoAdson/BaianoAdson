@@ -1,4 +1,4 @@
-## Olá me chamo Adson, mas todos me chamam de Baiano. 🙂
+🙂
 
 - 🔭 ...
 - 🌱 Estudando C e HTML.
