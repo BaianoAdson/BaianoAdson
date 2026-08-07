@@ -1,5 +1,5 @@
 <h1>HELLO WORLD 🖖</h1>
-<P>Me chamo Adson também conhecido como Baiano, sou estudante de T.I na FUCAPI, ainda um aprendiz na área porém com um vasto conhecimento e vontade de aprender mais, procuro oportunidades de usar meu conhecimento e conseguir um emprego na área ou estágio🦆</P>
+<h3>Me chamo Adson também conhecido como Baiano, sou estudante de T.I na FUCAPI, ainda um aprendiz na área porém com um vasto conhecimento e vontade de aprender mais, procuro oportunidades de usar meu conhecimento e conseguir um emprego na área ou estágio🦆</h3>
 <hr>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZoMWM4OWloeHhpNjY3enVndXl4ZTJodTFleHE4aWl2MXAxeWY0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OpSiWkUHasoJgqMF6z/giphy.gif" align="right", height="200", width="150" >
 <ul>
