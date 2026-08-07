@@ -1,18 +1,19 @@
-🙂
+<h1>HELLO WORLD 🖖</h1>
+<P>Me chamo Adson também conhecido como Baiano, sou estudante de T.I na FUCAPI, ainda um aprendiz na área porém com um vasto conhecimento e vontade de aprender mais, procuro oportunidades de usar meu conhecimento e conseguir um emprego na área ou estágio🦆</P>
+<hr>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZoMWM4OWloeHhpNjY3enVndXl4ZTJodTFleHE4aWl2MXAxeWY0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OpSiWkUHasoJgqMF6z/giphy.gif" align="right", height="200", width="150" >
+<ul>
+ <li>Programador de C, JS e WEB 🌐</li>
+ <li>Conhecimento em redes de computadores 📶</li>
+ <li>Conhecimento em Hardware 🖥🛠</li>
+ <li>Banco de Dados 📁</li>
+ <li>Conhecimento de eletrônica</li>
+ <li>Inglês intermediário</li>
 
-<a href="https://baianoadson.github.io/Projeto-Salas-FUCAPI-/">
- <p>Acessa ai jorj</p>
-
- <div align="left">
-  <a href="https://github.com/BaianoAdson">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaianoAdson&layout=compact&langs_count=7&theme=tokyonight"/>   
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-
-   <img align="right" alt="baianogif" height="180"  src="https://i.pinimg.com/originals/43/ed/fe/43edfe34a6e73a19fb0a03b5e73a7d79.gif"> 
-   <h2>           "Welcome!"</h2>
-
-  
+</ul>
+<h2>Currículo</h2>
+<table>
+<td><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" height="100" width="100" ></td>
+<td><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="100" width="100" > </td>
+<td><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="100" width="100" > </td>
+</table>
